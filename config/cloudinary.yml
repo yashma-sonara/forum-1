@@ -1,0 +1,6 @@
+production:
+  cloud_name: djh8pntcm
+  api_key: <%= ENV['768126462959377'] %>
+  api_secret: <%= ENV['8V6ZC6pHTqlPujcOGm-ENnL7zrE'] %>
+  enhance_image_tag: true
+  static_file_support: true
